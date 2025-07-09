@@ -15,10 +15,10 @@ Welcome to the **Little Lemon** capstone project, a fictional Mediterranean rest
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- React (optional, if used)
-- React Router (optional)
-- Jest & React Testing Library (optional)
-- Figma (for wireframing/design)
+- React 
+- React Router
+- Jest & React Testing Library
+- Figma
 
 ---
 
