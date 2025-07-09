@@ -1,24 +1,47 @@
-# Little  lemon
-Little Lemon is a capstone project for a fictional Mediterranean restaurant. It showcases responsive design, accessibility, and core web development skills using HTML, CSS, JavaScript, and optionally React. The app features pages such as Home, Menu, and Booking, all with interactive and user-friendly elements.
+# 🍋 Little Lemon Restaurant – Capstone Project
 
-## 🚀 Key Features
-Responsive multi-page layout (Home, Menu, Booking, About)
-Interactive reservation form with validation
-Styled using modern CSS techniques (Flexbox, Grid)
-Accessible design following WCAG best practices
-Optimized for performance and SEO
+Welcome to the **Little Lemon** capstone project, a fictional Mediterranean restaurant website built as part of the [Your Course Name] program. This project showcases skills in responsive design, accessibility, and front-end web development, utilizing modern technologies.
 
-🛠️ Tech Stack
-HTML5 / CSS3 / JavaScript ES6+
-React (if applicable)
-React Router (if applicable)
-Jest / Testing Library (if applicable)
+---
 
-📁 Structure
-/public – Static assets
-/src – Main application code
-/components – Reusable components (e.g., Navbar, BookingForm)
-/pages – Page views (Home, Menu, Booking, etc.)
+## 📌 Project Overview
 
-📄 License
-This project is for educational purposes only.
+**Little Lemon** is a family-owned restaurant that wants to expand its online presence. This project focuses on developing a responsive, user-friendly, and accessible web application that allows users to explore the restaurant’s menu, book a table, and learn more about the business.
+
+---
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React (optional, if used)
+- React Router (optional)
+- Jest & React Testing Library (optional)
+- Figma (for wireframing/design)
+
+---
+
+## 🚀 Features
+
+- ✅ Responsive layout for mobile, tablet, and desktop
+- ✅ User-friendly navigation with multiple pages (Home, About, Menu, Booking)
+- ✅ Interactive reservation form with input validation
+- ✅ SEO-friendly semantic HTML
+- ✅ Accessibility following WCAG guidelines
+- ✅ Component-based architecture (if React is used)
+
+---
+
+## 🗂️ Project Structure
+
+little-lemon/
+│
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Main page views
+│ ├── App.js # Application root
+│ └── index.js # Entry point
+├── README.md
+└── package.json
