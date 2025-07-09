@@ -1,6 +1,6 @@
 # 🍋 Little Lemon Restaurant – Capstone Project
 
-Welcome to the **Little Lemon** capstone project, a fictional Mediterranean restaurant website built as part of the [Your Course Name] program. This project showcases skills in responsive design, accessibility, and front-end web development, utilizing modern technologies.
+Welcome to the **Little Lemon** capstone project, a fictional Mediterranean restaurant website built as part of the Meta front-End Developer program. This project showcases skills in responsive design, accessibility, and front-end web development, utilizing modern technologies.
 
 ---
 
